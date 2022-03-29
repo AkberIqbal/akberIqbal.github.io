@@ -1,6 +1,8 @@
 ## Akber Iqbal
 
-Github page for [Akber Iqbal](https://www.akberIqbal.com).
+Github page for [Akber Iqbal](https://www.akberIqbal.com)
+
+[Akber Iqbal on stackoverflow](https://stackoverflow.com/users/8757883/akber-iqbal?tab=profile)
 
 
 ### About Akber Iqbal
